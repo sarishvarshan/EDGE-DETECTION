@@ -1,6 +1,6 @@
 # EXP NO 6: EDGE-DETECTION
 
-### Name: Anbu vignesh.v
+### Name:vignesh.v
 ### Register No: 212223230241
 ### Date:28:04:2025
 
