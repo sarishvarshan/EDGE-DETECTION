@@ -1,7 +1,7 @@
 # EXP NO 6: EDGE-DETECTION
 
-### Name: Anbu vinotha.S
-### Register No: 212223240008
+### Name: Anbu vignesh.v
+### Register No: 212223230241
 ### Date:
 
 ## Aim:
