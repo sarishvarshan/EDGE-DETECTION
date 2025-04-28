@@ -2,7 +2,7 @@
 
 ### Name: Anbu vignesh.v
 ### Register No: 212223230241
-### Date:
+### Date:28:04:2025
 
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
