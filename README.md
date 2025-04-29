@@ -1,8 +1,8 @@
 # EXP NO 6: EDGE-DETECTION
 
-### Name:vignesh.v
-### Register No: 212223230241
-### Date:28:04:2025
+### Name:SARISH VARSHAN V
+### Register No: 212223230196
+
 
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
