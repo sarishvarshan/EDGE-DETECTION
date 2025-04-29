@@ -1,6 +1,6 @@
 # EXP NO 6: EDGE-DETECTION
 
-### Name:SARISH VARSHAN V
+### Name       : SARISH VARSHAN V
 ### Register No: 212223230196
 
 
